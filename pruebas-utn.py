@@ -235,3 +235,6 @@
 
 #mensaje final con el resultado
 # print(f"El numero: {numero} ,invertido quedaria: {numero_de_nuevo}")
+
+
+
